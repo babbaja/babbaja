@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho00070265)](https://solved.ac/cho00070265)
